@@ -9,7 +9,7 @@ Program PIC_MCC_for_CCP
    Integer(4) :: i,j,k,m
    real(8) Cpu1,Cpu2 
    
-      Integer(4) :: NRun=2000,NDiagShort=100,NDiagLong=0,NDiagTestParticle=1
+      Integer(4) :: NRun=2000,NDiagShort=10,NDiagLong=0,NDiagTestParticle=1
 		!Integer(4) :: NRun=10,NDiagShort=0,NDiagLong=0
      !Integer(4) :: NRun=10000,NDiagShort=200,NDiagLong=200
 		
